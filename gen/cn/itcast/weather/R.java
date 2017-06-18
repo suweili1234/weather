@@ -18,18 +18,18 @@ public final class R {
         public static final int weather=0x7f020004;
     }
     public static final class id {
-        public static final int ctbj=0x7f070001;
-        public static final int ctjl=0x7f070003;
-        public static final int ctsh=0x7f070002;
-        public static final int femp=0x7f070008;
+        public static final int cq=0x7f070003;
+        public static final int femp1=0x7f070008;
         public static final int linear=0x7f070007;
+        public static final int loudi=0x7f070001;
         public static final int menu_settings=0x7f07000b;
-        public static final int pn=0x7f07000a;
-        public static final int select=0x7f070004;
-        public static final int select2=0x7f070006;
-        public static final int su=0x7f070000;
-        public static final int tubiao=0x7f070005;
-        public static final int wd=0x7f070009;
+        public static final int pn1=0x7f07000a;
+        public static final int selectsu=0x7f070004;
+        public static final int selectsu2=0x7f070006;
+        public static final int su1=0x7f070000;
+        public static final int tb=0x7f070005;
+        public static final int wd1=0x7f070009;
+        public static final int wenzhou=0x7f070002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
